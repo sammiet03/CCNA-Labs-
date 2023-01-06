@@ -17,38 +17,38 @@
 
 [EIGRP](https://github.com/sammiet03/CCNA-Labs-/blob/main/EIGRP.md)
 
-[OSPF]()
+[OSPF](https://github.com/sammiet03/CCNA-Labs-/blob/main/OSPF.md)
 
-[HSRP]()
+[HSRP](https://github.com/sammiet03/CCNA-Labs-/blob/main/HSRP.md)
 
-[IPv6 Configuration]()
+[IPv6 Configuration](https://github.com/sammiet03/CCNA-Labs-/blob/main/IPv6.md)
 
-[Standard ACLs]()
+[Standard ACLs](https://github.com/sammiet03/CCNA-Labs-/blob/main/Standard%20ACLs.md)
 
-[Extended ACLs]()
+[Extended ACLs](https://github.com/sammiet03/CCNA-Labs-/blob/main/Extended%20ACLs.md)
 
-[CDP and LLDP]()
+[CDP and LLDP](https://github.com/sammiet03/CCNA-Labs-/blob/main/CDP%20and%20LLDP.md)
 
-[NTP]()
+[NTP](https://github.com/sammiet03/CCNA-Labs-/blob/main/NTP.md)
 
-[DNS]()
+[DNS](https://github.com/sammiet03/CCNA-Labs-/blob/main/DNS.md)
 
-[DHCP]()
+[DHCP](https://github.com/sammiet03/CCNA-Labs-/blob/main/DHCP.md)
 
-[SNMP]()
+[SNMP](https://github.com/sammiet03/CCNA-Labs-/blob/main/SNMP.md)
 
-[SSH]()
+[SSH](https://github.com/sammiet03/CCNA-Labs-/blob/main/SSH.md)
 
-[NAT]()
+[NAT](https://github.com/sammiet03/CCNA-Labs-/blob/main/NAT.md)
 
-[Port Security]()
+[Port Security](https://github.com/sammiet03/CCNA-Labs-/blob/main/Port%20Security.md)
 
-[DHCP Snooping]()
+[DHCP Snooping](https://github.com/sammiet03/CCNA-Labs-/blob/main/DHCP%20Snooping.md)
 
-[DAI]()
+[DAI](https://github.com/sammiet03/CCNA-Labs-/blob/main/DAI.md)
 
-[STP and HSRP Synchronization]()
+[STP and HSRP Synchronization](https://github.com/sammiet03/CCNA-Labs-/blob/main/STP%20and%20HSRP%20Synchronization.md)
 
-[GRE Tunnels]()
+[GRE Tunnels](https://github.com/sammiet03/CCNA-Labs-/blob/main/GRE%20Tunnels.md)
 
-[Wireless LANs]()
+[Wireless LANs](https://github.com/sammiet03/CCNA-Labs-/blob/main/Wireless%20LANs.md)
