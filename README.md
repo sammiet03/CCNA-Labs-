@@ -16,21 +16,39 @@
 [Floating Static Routes]()
 
 [EIGRP]()
+
 [OSPF]()
+
 [HSRP]()
+
 [IPv6 Configuration]()
+
 [Standard ACLs]()
+
 [Extended ACLs]()
+
 [CDP and LLDP]()
+
 [NTP]()
+
 [DNS]()
+
 [DHCP]()
+
 [SNMP]()
+
 [SSH]()
+
 [NAT]()
+
 [Port Security]()
+
 [DHCP Snooping]()
+
 [DAI]()
+
 [STP and HSRP Synchronization]()
+
 [GRE Tunnels]()
+
 [Wireless LANs]()
