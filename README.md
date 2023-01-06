@@ -7,15 +7,15 @@
 
 [Multilayer Switching](https://github.com/sammiet03/CCNA-Labs-/blob/main/Multilayer%20Switching.md)
 
-[DTP and VTP]()
+[DTP and VTP](https://github.com/sammiet03/CCNA-Labs-/blob/main/DTP%20and%20VTP.md)
 
-[STP]()
+[STP](https://github.com/sammiet03/CCNA-Labs-/blob/main/STP.md)
 
-[EtherChannel]()
+[EtherChannel](https://github.com/sammiet03/CCNA-Labs-/blob/main/EtherChannel.md)
 
-[Floating Static Routes]()
+[Floating Static Routes](https://github.com/sammiet03/CCNA-Labs-/blob/main/Floating%20Static%20Routes.md)
 
-[EIGRP]()
+[EIGRP](https://github.com/sammiet03/CCNA-Labs-/blob/main/EIGRP.md)
 
 [OSPF]()
 
