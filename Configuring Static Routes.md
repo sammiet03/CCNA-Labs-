@@ -1,7 +1,7 @@
 ### Configuring Static Routes
 
 ### Network Topology
-<img src="https://user-images.githubusercontent.com/95317911/211111873-9f1da1fd-96cc-4785-9708-2c7ce39b4dd5.PNG" width="800" height="400">
+<img src="https://user-images.githubusercontent.com/95317911/211111873-9f1da1fd-96cc-4785-9708-2c7ce39b4dd5.PNG" width="50%" height="50%">
 
 ### Configuration
 
