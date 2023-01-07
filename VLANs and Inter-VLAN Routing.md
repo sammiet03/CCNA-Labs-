@@ -1,7 +1,7 @@
 ### VLANs and Inter-VLAN Routing
 
 ##### Network Topology
-![Capture1](https://user-images.githubusercontent.com/95317911/211118821-587a8921-46a1-4b3d-a9b7-c59d2db2a40b.PNG)
+<img src="https://user-images.githubusercontent.com/95317911/211118821-587a8921-46a1-4b3d-a9b7-c59d2db2a40b.PNG" width="50%" height="50%">
 
 ##### Configuring IP Addresses/Subnet Mask on each PC
 
