@@ -19,6 +19,10 @@
 
 [OSPF](https://github.com/sammiet03/CCNA-Labs-/blob/main/OSPF.md)
 
+[OSPF Lab 2](https://github.com/sammiet03/CCNA-Labs-/blob/main/OSPF%20Lab%202.md)
+
+[OSPF Lab 3](https://github.com/sammiet03/CCNA-Labs-/blob/main/OSPF%20Lab%203.md)
+
 [HSRP](https://github.com/sammiet03/CCNA-Labs-/blob/main/HSRP.md)
 
 [IPv6 Configuration](https://github.com/sammiet03/CCNA-Labs-/blob/main/IPv6.md)
