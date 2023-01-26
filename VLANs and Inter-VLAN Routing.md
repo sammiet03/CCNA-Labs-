@@ -110,6 +110,7 @@ Configure SW2 to support Inter-VLAN Routing using R1 as Default Gateway
 SW2(config)#int f0/1
 SW2(config-if)#switch trunk encap dot1q
 SW2(config-if)#switchport mode trunk 
+SW2(config-if)#switchport trunk allowed vlan 10,20
 ```
 
 ##### Layer 3 Switch with SVIs Configuration 
